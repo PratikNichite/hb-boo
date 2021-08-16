@@ -11,7 +11,7 @@ body {
 .cake {
   position: absolute;
   left: 50%;
-  top: 60%;
+  top: 70%;
   transform: translate(-40%, -50%);
 }
 .happy-birthday-wish {
@@ -29,7 +29,7 @@ body {
   color: white;
   height: 50vh;
   position: relative;
-  top: 10%;
+  top: 20%;
   display: flex;
   justify-content: center;
   align-items: center;
