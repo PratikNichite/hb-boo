@@ -1,3 +1,7 @@
+*, *::before, *::after {
+  font-family: 'Lobster', cursive;
+}
+
 body {
   background: #000;
   height: 70vh;
@@ -11,7 +15,7 @@ body {
 .cake {
   position: absolute;
   left: 50%;
-  top: 70%;
+  top: 60%;
   transform: translate(-40%, -50%);
 }
 .happy-birthday-wish {
